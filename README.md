@@ -9,7 +9,7 @@
 
 - Τα αρχεία python για την εκτέλεση όλων των ερωτημάτων βρίσκονται στον φάκελo [scripts](https://github.com/ValantisAndreas/Advanced-DB/tree/master/scripts).
 
-- Οδηγίες εγκατάστησης βρίσκονται στην [αναφορά](wwww.github.com).
+- Οδηγίες εγκατάστησης βρίσκονται στην [αναφορά](https://github.com/ValantisAndreas/Advanced-DB/blob/master/report.pdf).
 
 ---
 
