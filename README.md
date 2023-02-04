@@ -7,9 +7,18 @@
 
 ---
 
-- Τα αρχεία python για την εκτέλεση όλων των ερωτημάτων βρίσκονται στον φάκελo [scripts](https://github.com/ValantisAndreas/Advanced-DB/tree/master/scripts).
+- Τα αρχεία python για την εκτέλεση όλων των ερωτημάτων βρίσκονται στον φάκελo [scripts](wwww.github.com).
 
-- Οδηγίες εγκατάστησης βρίσκονται στην [αναφορά](https://github.com/ValantisAndreas/Advanced-DB/blob/master/report.pdf).
+- Οδηγίες εγκατάστησης βρίσκονται στην [αναφορά](wwww.github.com).
+
+- Τα αποτελεσμάτα των ερωτημάτων βρίσκονται στο αρχείο [output.txt](https://github.com/ValantisAndreas/Advanced-DB/blob/master/outputs.txt).
+- Οι χρόνοι εκτέλεσης των ερωτημάτων βρίσκονται στο αρχείο [query_exec_times.txt](https://github.com/ValantisAndreas/Advanced-DB/blob/master/query_exec_times.txt).
+
+--- 
+
+Για την υλοποίηση της εργασίας αξιοποίηθηκαν δεδομένα  διαδρομών ταξί (TLC) της Νές Υόρκης για το διάστημα _1/22 - 6/22_. <br>
+Τα δεδομένα είναι δημόσια διαθέσιμα [εδώ](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
+
 
 ---
 
